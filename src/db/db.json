@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "id": "eae896fd-2d5c-4cea-b8bb-c29860d304f0",
+    "name": "Danny Ford",
+    "phone": "(842) 641-2289",
+    "email": "dannyford@yahoo.com",
+    "job": "Sales Manager"
+  },
+  {
+    "id": "05c298fb-d6e1-4a4e-9b03-eac3f7f0c613",
+    "name": "Ron Tree",
+    "phone": "(842) 550-1279",
+    "email": "rontree@yahoo.com",
+    "job": "Human Resources Specialist"
+  },
+  {
+    "id": "f94bf7fc-f125-4d28-be0c-df7c70e0611e",
+    "name": "Jennifer Sweet",
+    "phone": "(842) 650-3279",
+    "email": "jennifersweet@yahoo.com",
+    "job": "Marketing Manager"
+  },
+  {
+    "id": "4a49f38a-abcf-4e96-b743-dfb4153af925",
+    "name": "Dana O'Hara",
+    "phone": "872.921.1896 x37439",
+    "email": "Jessyca13@hotmail.com",
+    "job": "Forward Optimization Engineer"
+  },
+  {
+    "id": "35ba1139-1de9-485a-8121-67eaedc60f10",
+    "name": "Morris Botsford-Corkery",
+    "phone": "(325) 737-3915 x114",
+    "email": "Talia_Ortiz93@yahoo.com",
+    "job": "Regional Research Manager"
+  },
+  {
+    "id": "164ca6ff-f2d1-47b7-8232-08c631c7bf6d",
+    "name": "Mr. Ruben Mohr Sr.",
+    "phone": "1-709-948-7823 x472",
+    "email": "Kamryn.Reilly41@yahoo.com",
+    "job": "Human Accounts Orchestrator"
+  },
+  {
+    "id": "0b6ec58c-9b90-4a2d-8306-e4e9fe709bff",
+    "name": "Dianne Gerhold",
+    "phone": "772-509-5225 x2295",
+    "email": "Darron.Baumbach@yahoo.com",
+    "job": "Future Tactics Representative"
+  },
+  {
+    "id": "b0cd0fa3-262c-4fef-af9d-4a230f2098b6",
+    "name": "Crystal Schuppe",
+    "phone": "1-216-440-3756 x361",
+    "email": "Damon.Kiehn10@gmail.com",
+    "job": "Dynamic Research Analyst"
+  },
+  {
+    "id": "8bdb2e4c-9d44-4704-b2e4-02571d9a0c1d",
+    "name": "Bill Renner",
+    "phone": "(448) 234-4943 x3055",
+    "email": "Rolando.Bins23@yahoo.com",
+    "job": "District Infrastructure Analyst"
+  },
+  {
+    "id": "42dd8f40-e415-481c-8323-b3d07e0deb13",
+    "name": "Bradley Ryan",
+    "phone": "1-635-532-6504 x753",
+    "email": "Eleazar_Block@yahoo.com",
+    "job": "District Communications Planner"
+  }
+]
